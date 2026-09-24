@@ -5,5 +5,26 @@
     "fullName": "NEET UG 2027 Countdown",
     "date": "2027-05-02T00:00:00+05:30",
     "important": true
+  },
+  {
+    "id": "jee-main-2027-s1",
+    "name": "JEE Main 2027 (Session 1)",
+    "fullName": "JEE Main 2027 Session 1 Countdown",
+    "date": "2027-01-22T00:00:00+05:30",
+    "important": true
+  },
+  {
+    "id": "jee-main-2027-s2",
+    "name": "JEE Main 2027 (Session 2)",
+    "fullName": "JEE Main 2027 Session 2 Countdown",
+    "date": "2027-04-05T00:00:00+05:30",
+    "important": false
+  },
+  {
+    "id": "jee-advanced-2027",
+    "name": "JEE Advanced 2027",
+    "fullName": "JEE Advanced 2027 Countdown",
+    "date": "2027-05-17T00:00:00+05:30",
+    "important": true
   }
 ]
