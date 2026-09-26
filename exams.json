@@ -1,0 +1,234 @@
+[
+  {
+    "id": "neet-2027",
+    "name": "NEET 2027",
+    "fullName": "NEET UG 2027 Countdown",
+    "date": "2027-05-02T14:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": true
+  },
+  {
+    "id": "jee-main-2027-s1",
+    "name": "JEE Main 2027 (Session 1)",
+    "fullName": "JEE Main 2027 Session 1 Countdown",
+    "date": "2027-01-22T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": true
+  },
+  {
+    "id": "jee-main-2027-s2",
+    "name": "JEE Main 2027 (Session 2)",
+    "fullName": "JEE Main 2027 Session 2 Countdown",
+    "date": "2027-04-05T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "jee-advanced-2027",
+    "name": "JEE Advanced 2027",
+    "fullName": "JEE Advanced 2027 Countdown",
+    "date": "2027-05-17T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": true
+  },
+  {
+    "id": "gate-2027",
+    "name": "GATE 2027",
+    "fullName": "GATE 2027 Countdown",
+    "date": "2027-02-06T09:30:00+05:30",
+    "category": "Competitive Exams",
+    "important": true
+  },
+  {
+    "id": "upsc-cse-prelims-2027",
+    "name": "UPSC CSE Prelims 2027",
+    "fullName": "UPSC Civil Services Prelims 2027 Countdown",
+    "date": "2027-05-24T09:30:00+05:30",
+    "category": "Competitive Exams",
+    "important": true
+  },
+  {
+    "id": "clat-2027",
+    "name": "CLAT 2027",
+    "fullName": "CLAT 2027 Countdown",
+    "date": "2026-12-07T14:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "ailet-2027",
+    "name": "AILET 2027",
+    "fullName": "AILET 2027 Countdown",
+    "date": "2026-12-14T14:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "cds-1-2027",
+    "name": "CDS 1 2027",
+    "fullName": "CDS 1 2027 Countdown",
+    "date": "2027-02-08T10:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "neet-pg-2027",
+    "name": "NEET PG 2027",
+    "fullName": "NEET PG 2027 Countdown",
+    "date": "2027-03-07T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "nda-1-2027",
+    "name": "NDA 1 2027",
+    "fullName": "NDA 1 2027 Countdown",
+    "date": "2027-04-12T10:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "cuet-ug-2027",
+    "name": "CUET UG 2027",
+    "fullName": "CUET UG 2027 Countdown",
+    "date": "2027-05-15T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "ssc-cgl-2027",
+    "name": "SSC CGL 2027",
+    "fullName": "SSC CGL 2027 Countdown",
+    "date": "2027-06-15T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "rrb-ntpc-2027",
+    "name": "RRB NTPC 2027",
+    "fullName": "RRB NTPC 2027 Countdown",
+    "date": "2027-06-20T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "ssc-chsl-2027",
+    "name": "SSC CHSL 2027",
+    "fullName": "SSC CHSL 2027 Countdown",
+    "date": "2027-07-10T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "nda-2-2027",
+    "name": "NDA 2 2027",
+    "fullName": "NDA 2 2027 Countdown",
+    "date": "2027-09-06T10:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "ibps-po-2027",
+    "name": "IBPS PO 2027",
+    "fullName": "IBPS PO 2027 Countdown",
+    "date": "2027-10-11T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "sbi-po-2027",
+    "name": "SBI PO 2027",
+    "fullName": "SBI PO 2027 Countdown",
+    "date": "2027-11-08T09:00:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "cat-2027",
+    "name": "CAT 2027",
+    "fullName": "CAT 2027 Countdown",
+    "date": "2027-11-28T08:30:00+05:30",
+    "category": "Competitive Exams",
+    "important": false
+  },
+  {
+    "id": "cbse-10-2027",
+    "name": "CBSE Class 10 2027",
+    "fullName": "CBSE Class 10 Board Exam 2027 Countdown",
+    "date": "2027-02-15T10:30:00+05:30",
+    "category": "Board Exams",
+    "important": true
+  },
+  {
+    "id": "cbse-12-2027",
+    "name": "CBSE Class 12 2027",
+    "fullName": "CBSE Class 12 Board Exam 2027 Countdown",
+    "date": "2027-02-15T10:30:00+05:30",
+    "category": "Board Exams",
+    "important": true
+  },
+  {
+    "id": "bihar-board-12-2027",
+    "name": "Bihar Board Class 12 2027",
+    "fullName": "Bihar Board Class 12 2027 Countdown",
+    "date": "2027-02-01T09:30:00+05:30",
+    "category": "Board Exams",
+    "important": false
+  },
+  {
+    "id": "up-board-10-2027",
+    "name": "UP Board Class 10 2027",
+    "fullName": "UP Board Class 10 2027 Countdown",
+    "date": "2027-02-18T08:00:00+05:30",
+    "category": "Board Exams",
+    "important": false
+  },
+  {
+    "id": "up-board-12-2027",
+    "name": "UP Board Class 12 2027",
+    "fullName": "UP Board Class 12 2027 Countdown",
+    "date": "2027-02-18T08:00:00+05:30",
+    "category": "Board Exams",
+    "important": false
+  },
+  {
+    "id": "maharashtra-hsc-2027",
+    "name": "Maharashtra HSC 2027",
+    "fullName": "Maharashtra HSC Class 12 2027 Countdown",
+    "date": "2027-02-21T11:00:00+05:30",
+    "category": "Board Exams",
+    "important": false
+  },
+  {
+    "id": "mp-board-12-2027",
+    "name": "MP Board Class 12 2027",
+    "fullName": "MP Board Class 12 2027 Countdown",
+    "date": "2027-03-02T09:00:00+05:30",
+    "category": "Board Exams",
+    "important": false
+  },
+  {
+    "id": "wb-board-12-2027",
+    "name": "WB Board Class 12 2027",
+    "fullName": "West Bengal Board Class 12 2027 Countdown",
+    "date": "2027-03-03T11:45:00+05:30",
+    "category": "Board Exams",
+    "important": false
+  },
+  {
+    "id": "rbse-10-2027",
+    "name": "RBSE Class 10 2027",
+    "fullName": "Rajasthan Board Class 10 2027 Countdown",
+    "date": "2027-03-06T08:30:00+05:30",
+    "category": "Board Exams",
+    "important": false
+  },
+  {
+    "id": "rbse-12-2027",
+    "name": "RBSE Class 12 2027",
+    "fullName": "Rajasthan Board Class 12 2027 Countdown",
+    "date": "2027-03-06T08:30:00+05:30",
+    "category": "Board Exams",
+    "important": false
+  }
+]
